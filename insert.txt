@@ -1,0 +1,1 @@
+INSERT INTO `contacts`(`name`, `Lastname`, `phone`, `message`) VALUES (mohammadreza,sabri,09127375936,Hi my name is mohammadreza. This in test message in datebase)
